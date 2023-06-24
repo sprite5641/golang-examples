@@ -31,21 +31,37 @@ git clone https://github.com/sprite5641/golang-examples.git
 
 This repository contains the following examples:
 
-### Example 1: Hello World
+### Example 1: Goroutines
 
-This example demonstrates the basic structure of a Go program. It prints "Hello, World!" to the console.
+This example demonstrates how to use goroutines to perform concurrent operations. It includes examples of creating goroutines, passing arguments to goroutines, and waiting for goroutines to finish.
 
-### Example 2: File Operations
+### Example 2: Channels
 
-This example shows how to read from and write to files using Go's built-in file operations. It includes examples of reading a file, writing to a file, and appending data to an existing file.
+This example demonstrates how to use channels to communicate between goroutines. It includes examples of creating channels, sending values to channels, and receiving values from channels.
 
-### Example 3: HTTP Server
+### Example 3: WaitGroup
 
-In this example, a simple HTTP server is implemented using Go's `net/http` package. It demonstrates how to handle HTTP requests, serve static files, and create API endpoints.
+This example demonstrates how to use a WaitGroup to wait for goroutines to finish. It includes examples of creating a WaitGroup, adding goroutines to a WaitGroup, and waiting for goroutines to finish.
 
-### Example 4: Concurrency
+### Example 4: SelectStatement
 
-This example illustrates Go's built-in concurrency features, including goroutines and channels. It demonstrates how to perform concurrent operations to improve performance and handle concurrent access to shared resources.
+This example demonstrates how to use a select statement to receive values from multiple channels. It includes examples of creating channels, sending values to channels, and receiving values from channels.
+
+### Example 5: BufferedChannels
+
+This example demonstrates how to use buffered channels to send and receive multiple values. It includes examples of creating buffered channels, sending values to buffered channels, and receiving values from buffered channels.
+
+### Example 6: Context
+
+This example demonstrates how to use a context to cancel goroutines. It includes examples of creating a context, passing a context to goroutines, and canceling goroutines.
+
+### Example 7: Errors
+
+This example demonstrates how to use errors to handle unexpected conditions. It includes examples of creating errors, checking for errors, and handling errors.
+
+### Example 8: WorkerPool
+
+This example demonstrates how to use a worker pool to perform concurrent operations. It includes examples of creating a worker pool, adding tasks to a worker pool, and waiting for tasks to finish.
 
 ## Contributing
 
