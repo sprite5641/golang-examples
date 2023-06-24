@@ -20,7 +20,7 @@ To run the example code, make sure you have Go installed on your system. You can
 Once Go is installed, clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/go-example-code.git
+git clone https://github.com/sprite5641/golang-examples.git
 ```
 
 ## Examples
