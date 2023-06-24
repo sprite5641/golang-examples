@@ -6,10 +6,14 @@ This repository contains example code written in Go (Golang) to demonstrate vari
 
 1. [Installation](#installation)
 2. [Examples](#examples)
-   - [Example 1: Hello World](#example-1-hello-world)
-   - [Example 2: File Operations](#example-2-file-operations)
-   - [Example 3: HTTP Server](#example-3-http-server)
-   - [Example 4: Concurrency](#example-4-concurrency)
+   - [Example 1: Goroutines](#example-1-Goroutines)
+   - [Example 2: Channels](#example-2-Channels)
+   - [Example 3: WaitGroup](#example-3-WaitGroup)
+   - [Example 4: SelectStatement](#example-4-SelectStatement)
+   - [Example 5: BufferedChannels](#example-4-BufferedChannels)
+   - [Example 6: Context](#example-4-Context)
+   - [Example 7: Errors](#example-4-Errors)
+   - [Example 8: WorkerPool](#example-4-WorkerPool)
 3. [Contributing](#contributing)
 4. [License](#license)
 
