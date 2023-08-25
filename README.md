@@ -63,6 +63,39 @@ This example demonstrates how to use errors to handle unexpected conditions. It 
 
 This example demonstrates how to use a worker pool to perform concurrent operations. It includes examples of creating a worker pool, adding tasks to a worker pool, and waiting for tasks to finish.
 
+
+### Example 9: Mutex and Shared State
+
+This example demonstrates how to use a mutex to protect shared resources from concurrent access. It includes examples of creating a mutex, using the mutex to protect critical sections of code, and avoiding race conditions.
+
+### Example 10: Atomic Operations
+
+This example demonstrates how to use atomic operations to perform safe and efficient updates to shared variables without the need for locks.
+
+### Example 11: Rate Limiting with time.Ticker
+
+This example demonstrates how to use a ticker to limit the rate of execution of certain operations.
+
+### Example 12: Defer
+
+This example demonstrates how to use the defer statement to ensure that a function call is executed when the surrounding function exits, regardless of the control flow.
+
+### Example 13: Panic and Recover
+
+This example demonstrates how to use the panic and recover mechanisms to handle exceptional situations gracefully.
+
+### Example 14: Custom Types and Methods
+
+This example demonstrates how to define custom types and methods on them.
+
+### Example 15: JSON Marshaling and Unmarshaling
+
+This example demonstrates how to marshal Go structs into JSON and unmarshal JSON into Go structs.
+
+### Example 16: File I/O
+
+This example demonstrates how to read and write files in Go.
+
 ## Contributing
 
 If you would like to contribute to this project, you can follow these steps:
