@@ -22,6 +22,7 @@ This repository contains example code written in Go (Golang) to demonstrate vari
    - [Example 14: Custom Types and Methods](#example-14-Custom-Types-and-Methods)
    - [Example 15: JSON Marshaling and Unmarshaling](#example-15-JSON-Marshaling-and-Unmarshaling)
    - [Example 16: File I/O](#example-16-File-I/O)
+   - [Example 17: Generics](#example-17-Generics)
 3. [Contributing](#contributing)
 4. [License](#license)
 
@@ -103,6 +104,10 @@ This example demonstrates how to marshal Go structs into JSON and unmarshal JSON
 ### Example 16: File I/O
 
 This example demonstrates how to read and write files in Go.
+
+### Example 17: Generics
+
+This example demonstrates how to use generic in Go.
 
 ## Contributing
 
